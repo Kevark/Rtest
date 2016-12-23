@@ -1,4 +1,4 @@
-Package: CarlabsPrediction
+Package: Rtest
 Type: Package
 Title: Prediction methods for data points
 Version: 0.1
@@ -8,5 +8,5 @@ Maintainer: Kevin Park <kevin@carlabs.com>
 Description: Using different models in R to give backfill for missing data.
 License: Apache License 2.0
 LazyData: false
-Depends: R (>= 3.32)
+Depends: R (>= 3.3.2)
 Imports: randomForest
